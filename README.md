@@ -43,7 +43,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone <your-repo-url> 软著申请工具
+git clone https://github.com/PassionHitman/ruanzhuruanjian.py 软著申请工具
 cd 软著申请工具
 
 # 2. 安装依赖
