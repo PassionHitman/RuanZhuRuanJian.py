@@ -136,9 +136,6 @@ python main.py
 - **AI 输出可控** — 每个 AI 生成阶段都需要用户确认，所有判断可溯源至项目原始证据，避免编造
 - **兼容性** — 无需 Claude Code 或终端交互，纯图形界面操作
 
-## 🙏 致谢
-
-本项目由 [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)（Claude Code Skill）改造而来，将 Claude API 替换为 DeepSeek API，并包装为独立 PyQt6 桌面应用。
 
 ## 📄 许可证
 
